@@ -9,17 +9,7 @@ First line is N, denotes the amount of test case, then there are Ns graph data f
 Output:
 
 If the input graph is singly connected, output the ”YES”, or “NO” if not.
-
 The test case number should be printed before the answer.
-
-Please use the blank key to separate test case number and answer. Do not output any extra words and symbols, otherwise the program cannot be judged by e-Tutor.
-
-Remark:
-
-1. The program is submitted directly to the e-Tutor system platform for verification.
-2. Documentation (HW5_Student ID.pdf) Please submit to Moodle system platform to score, the content must include:
- A summary of the logic, principles, compiler environment and language used in this program.
- Details of the program content (source code with notes, graphic illustration, and pseudo code explanation.
 
 Example of Input:
 
