@@ -1,4 +1,4 @@
-scp.o: scp.c
-	gcc -c scp.c
-scp: scp.o
-	gcc scp.o -o scp
+sc.o: sc.c
+	gcc -c sc.c
+sc: sc.o
+	gcc sc.o -o sc
