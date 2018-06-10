@@ -71,10 +71,10 @@ void dfs(int size) {
             dfs_visit(size, i);
         }
 
-        for (int k = 0; k < size; k++) {
-            clear_vertices(k);
+        for (int j = 0; j < size; j++) {
+            clear_vertices(j);
         }
-   }
+    }
 }
 
 int main() {
